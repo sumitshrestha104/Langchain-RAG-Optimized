@@ -10,6 +10,7 @@ dependencies = [
     "langchain>=1.2.10",
     "langchain-community>=0.4.1",
     "langchain-core>=1.2.15",
+    "langchain-ollama>=1.0.1",
     "pymupdf>=1.27.1",
     "pypdf>=6.7.3",
     "scikit-learn>=1.8.0",
