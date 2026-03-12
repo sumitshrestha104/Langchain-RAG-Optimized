@@ -10,6 +10,7 @@ wheels/
 .venv
 
 # Ignore vector database
+data/pdfs/
 data/vector_store/
 **/chroma.sqlite3
 **/*.bin
