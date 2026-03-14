@@ -9,3 +9,7 @@ sentence-transformers
 faiss-cpu
 chromadb
 scikit-learn
+ragas
+langchain-openai
+rapidfuzz
+google-cloud-storage
