@@ -13,3 +13,5 @@ ragas
 langchain-openai
 rapidfuzz
 google-cloud-storage
+langchain-google-community[gcs]
+langchain-docstore

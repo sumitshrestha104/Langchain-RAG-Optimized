@@ -11,6 +11,7 @@ dependencies = [
     "langchain>=1.2.10",
     "langchain-community>=0.4.1",
     "langchain-core>=1.2.15",
+    "langchain-google-community[gcs]>=3.0.5",
     "langchain-ollama>=1.0.1",
     "langchain-openai>=1.1.10",
     "pymupdf>=1.27.1",
