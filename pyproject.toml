@@ -16,6 +16,7 @@ dependencies = [
     "langchain-google-community[gcs]>=3.0.5",
     "langchain-ollama>=1.0.1",
     "langchain-openai>=1.1.10",
+    "langchain-text-splitters>=1.1.1",
     "pymupdf>=1.27.1",
     "pypdf>=6.7.3",
     "ragas>=0.4.3",

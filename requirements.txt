@@ -2,6 +2,7 @@ langchain
 langchain-core
 langchain-community
 langchain-ollama
+langchain_text_splitters
 pypdf
 pymupdf
 tiktoken
@@ -14,6 +15,4 @@ langchain-openai
 rapidfuzz
 google-cloud-storage
 langchain-google-community[gcs]
-griffe<1.0.0
-scipy<1.14.0
-giskard[llm]
+
