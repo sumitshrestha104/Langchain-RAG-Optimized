@@ -14,6 +14,7 @@ dependencies = [
     "langchain-community>=0.4.1",
     "langchain-core>=1.2.15",
     "langchain-google-community[gcs]>=3.0.5",
+    "langchain-groq>=1.1.2",
     "langchain-ollama>=1.0.1",
     "langchain-openai>=1.1.10",
     "langchain-text-splitters>=1.1.1",

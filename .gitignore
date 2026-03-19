@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Has Keys
+.env
+
 # Ignore vector database
 data/pdfs/
 data/vector_store/

@@ -12,6 +12,7 @@ chromadb
 scikit-learn
 ragas
 langchain-openai
+langchain-groq
 rapidfuzz
 google-cloud-storage
 langchain-google-community[gcs]
